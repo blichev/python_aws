@@ -1,1 +1,1 @@
-# python_aws
+Useful AWS scripts
